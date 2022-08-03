@@ -2,7 +2,7 @@
   "name": "thanos-theme",
   "displayName": "Thanos Theme",
   "description": "A theme made by a Titan to conquer the universe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "publisher": "arthur404dev",
   "icon": "images/thanos-logo.png",
@@ -26,6 +26,8 @@
   ],
   "keywords": [
     "thanos",
+    "thanos theme",
+    "thanos-theme",
     "theme",
     "purple",
     "light",

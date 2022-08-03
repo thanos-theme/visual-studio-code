@@ -39,7 +39,7 @@
     "editorBracketHighlight.foreground5": "#ff206e",
     "editorBracketHighlight.foreground6": "#FFE900",
     "editorCursor.foreground": "#f8f8f0",
-    "editorGroup.emptyBackground": "#21252B",
+    "editorGroup.emptyBackground": "#181b28",
     "editorGroup.border": "#181A1F",
     "editorGroup.dropBackground": "#1b171f",
     "editorGroupHeader.tabsBackground": "#181b28",
