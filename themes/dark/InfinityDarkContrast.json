@@ -1,0 +1,318 @@
+{
+  "author": "arthur404dev",
+  "name": "Infinity Dark Contrast",
+  "type": "dark",
+  "colors": {
+    "activityBar.background": "#181b28",
+    "activityBar.foreground": "#705fbd",
+    "activityBar.inactiveForeground": "#2a3049",
+    "activityBarBadge.background": "#9d65ff",
+    "activityBarBadge.foreground": "#ffffff",
+
+    "badge.background": "#705fbd",
+    "badge.foreground": "#ffffff",
+
+    "breadcrumb.background": "#151825",
+    "breadcrumb.foreground": "#4b5783",
+    "breadcrumbPicker.background": "#151825",
+
+    "button.background": "#705fbd",
+    "button.foreground": "#FFFFFF",
+    "button.hoverBackground": "#9472c4",
+
+    "diffEditor.insertedTextBackground": "#5d43d010",
+    "diffEditor.removedTextBackground": "#e052521a",
+
+    "dropdown.background": "#181B28",
+
+    "editor.background": "#161926",
+    "editor.findMatchBackground": "#b5a1ff4d",
+    "editor.findMatchHighlightBackground": "#b5a1ff99",
+    "editor.foreground": "#b9c3d5",
+    "editor.inactiveSelectionBackground": "#4b5783",
+    "editor.lineHighlightBackground": "#222530",
+    "editor.selectionBackground": "#9d65ff33",
+    "editorBracketHighlight.foreground1": "#9d65ff",
+    "editorBracketHighlight.foreground2": "#FABC2A",
+    "editorBracketHighlight.foreground3": "#58ebd7",
+    "editorBracketHighlight.foreground4": "#00A1E4",
+    "editorBracketHighlight.foreground5": "#ff206e",
+    "editorBracketHighlight.foreground6": "#FFE900",
+    "editorCursor.foreground": "#f8f8f0",
+    "editorGroup.emptyBackground": "#21252B",
+    "editorGroup.border": "#181A1F",
+    "editorGroup.dropBackground": "#1b171f",
+    "editorGroupHeader.tabsBackground": "#181b28",
+    "editorHoverWidget.background": "#181B28",
+    "editorHoverWidget.border": "#343b46",
+    "editorIndentGuide.activeBackground": "#473b64",
+    "editorIndentGuide.background": "#473b64",
+    "editorLineNumber.foreground": "#2a3049",
+    "editorLineNumber.activeForeground": "#705fbd",
+    "editorOverviewRuler.border": "#2a3049",
+    "editorRuler.foreground": "#ABB2BF26",
+    "editorSuggestWidget.background": "#181B28",
+    "editorSuggestWidget.border": "#3e3746",
+    "editorSuggestWidget.highlightForeground": "#9AEFEA",
+    "editorSuggestWidget.selectedBackground": "#2C313A",
+    "editorWhitespace.foreground": "#312d3a",
+    "editorWidget.background": "#181B28",
+
+    "focusBorder": "#9d65ff",
+
+    "gitDecoration.addedResourceForeground": "#58ebd7cc",
+    "gitDecoration.deletedResourceForeground": "#ff206e",
+    "gitDecoration.ignoredResourceForeground": "#8a7c9c",
+    "gitDecoration.modifiedResourceForeground": "#9d65ff",
+    "gitDecoration.untrackedResourceForeground": "#58ebd7",
+
+    "input.background": "#181B28",
+    "input.border": "#181A1F",
+
+    "list.activeSelectionBackground": "#2a3049",
+    "list.focusBackground": "#2a3049",
+    "list.hoverBackground": "#181B28",
+    "list.inactiveSelectionBackground": "#2a3049",
+    "list.activeSelectionForeground": "#ffffff",
+    "list.highlightForeground": "#ffffff",
+    "list.inactiveSelectionForeground": "#ffffff",
+    "list.errorForeground": "#ff206e",
+    "list.warningForeground": "#FABC2A",
+
+    "notifications.background": "#21252B",
+
+    "pickerGroup.border": "#9d65ff",
+
+    "sideBar.background": "#181b28",
+    "sideBarSectionHeader.background": "#161926",
+
+    "statusBar.background": "#181B28",
+    "statusBar.noFolderBackground": "#181B28",
+    "statusBar.foreground": "#4b5783",
+    "statusBarItem.hoverBackground": "#2C313A",
+    "statusBar.debuggingBackground": "#4b5783",
+    "statusBar.debuggingForeground": "#ffffff",
+
+    "scrollbarSlider.background": "#2a3049",
+    "scrollbarSlider.activeBackground": "#9d65ff",
+    "scrollbarSlider.hoverBackground": "#705fbd",
+
+    "tab.activeBackground": "#161926",
+    "tab.activeForeground": "#D7DAE0",
+    "tab.activeBorder": "#9d65ff9c",
+    "tab.activeBorderTop": "#58ebd79c",
+    "tab.border": "#181B28",
+    "tab.inactiveBackground": "#181B28",
+    "tab.inactiveForeground": "#4b5783",
+
+    "terminal.border": "#161926",
+    "terminal.background": "#161926",
+    "terminal.ansiBlack": "#1A1A1A",
+    "terminal.ansiBlue": "#9d65ff",
+    "terminal.ansiBrightBlack": "#625E4C",
+    "terminal.ansiBrightBlue": "#9d65ff",
+    "terminal.ansiBrightCyan": "#9d65ff",
+    "terminal.ansiBrightGreen": "#58ebd7",
+    "terminal.ansiBrightMagenta": "#00A1E4",
+    "terminal.ansiBrightRed": "#ff206e",
+    "terminal.ansiBrightWhite": "#F6F6EF",
+    "terminal.ansiBrightYellow": "#FABC2A",
+    "terminal.ansiCyan": "#9d65ff",
+    "terminal.ansiGreen": "#58ebd7",
+    "terminal.ansiMagenta": "#00A1E4",
+    "terminal.ansiRed": "#ff206e",
+    "terminal.ansiWhite": "#C4C5B5",
+    "terminal.ansiYellow": "#FABC2A",
+    "terminal.foreground": "#C4C5B5",
+    "terminalCursor.background": "#c0c5ce",
+    "terminalCursor.foreground": "#c4c5b5",
+
+    "titleBar.activeBackground": "#181b28",
+    "titleBar.activeForeground": "#9DA5B4",
+    "titleBar.inactiveBackground": "#181b28",
+    "titleBar.inactiveForeground": "#4b5783",
+
+    "peekView.border": "#9d65ff",
+    "peekViewResult.background": "#181b28",
+    "peekViewResult.selectionBackground": "#2a3049",
+    "peekViewTitle.background": "#181b28",
+    "peekViewEditor.background": "#181b28"
+  },
+  "tokenColors": [
+    {
+      "name": "Voice of Universe",
+      "scope": [
+        "comment",
+        "markup.quote.markdown",
+        "meta.diff",
+        "meta.diff.header",
+        "string.quoted.docstring.multi.python"
+      ],
+      "settings": {
+        "foreground": "#5f6167",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Reality Stone",
+      "scope": [
+        "markup.heading",
+        "variable.language.this.js",
+        "variable.language.this.ts",
+        "variable.language.this.jsx",
+        "variable.language.this.tsx",
+        "variable.language.special.self.python",
+        "constant.language.boolean",
+        "constant.language.go",
+        "constant.language.python"
+      ],
+      "settings": {
+        "foreground": "#ff206e"
+      }
+    },
+    {
+      "name": "Space Stone",
+      "scope": [
+        "markup.bold",
+        "constant.numeric",
+        "meta.group.regexp",
+        "constant.other.php",
+        "support.constant.ext.php",
+        "constant.other.class.php",
+        "support.constant.core.php",
+        "fenced_code.block.language",
+        "constant.other.caps.python",
+        "entity.other.attribute-name",
+        "support.type.exception.python",
+        "source.css keyword.other.unit",
+        "string.regexp",
+        "markup.changed"
+      ],
+      "settings": {
+        "foreground": "#00A1E4"
+      }
+    },
+    {
+      "name": "Time Stone",
+      "scope": [
+        "string",
+        "text.html.php string",
+        "markup.inline.raw",
+        "markup.inserted",
+        "punctuation.definition.string",
+        "punctuation.definition.markdown",
+        "text.html meta.embedded source.js string",
+        "text.html.php punctuation.definition.string",
+        "text.html meta.embedded source.js punctuation.definition.string",
+        "text.html punctuation.definition.string",
+        "text.html string"
+      ],
+      "settings": { "foreground": "#58ebd7" }
+    },
+    {
+      "name": "Power Stone",
+      "scope": [
+        "punctuation.definition.interpolation",
+        "punctuation.section.embedded.end.php",
+        "punctuation.section.embedded.end.ruby",
+        "punctuation.section.embedded.begin.php",
+        "punctuation.section.embedded.begin.ruby",
+        "punctuation.definition.template-expression",
+        "storage",
+        "keyword",
+        "meta.link",
+        "meta.image",
+        "markup.italic",
+        "source.js support.type",
+        "support.type.primitive.ts",
+        "meta.interface.ts"
+      ],
+      "settings": { "foreground": "#9d65ff" }
+    },
+    {
+      "name": "Soul Stone",
+      "scope": [
+        "meta.template.expression.js",
+        "keyword.operator",
+        "constant.name.attribute.tag.jade",
+        "punctuation.definition.metadata.markdown",
+        "punctuation.definition.string.end.markdown",
+        "punctuation.definition.string.begin.markdown",
+        "entity.name.tag",
+        "punctuation.definition.tag.begin.tsx",
+        "punctuation.definition.tag.begin.html",
+        "punctuation.definition.tag.begin.jsx",
+        "punctuation.definition.tag.begin.js",
+        "punctuation.definition.tag.begin.ts",
+        "punctuation.definition.tag.end.tsx",
+        "punctuation.definition.tag.end.ts",
+        "punctuation.definition.tag.end.jsx",
+        "punctuation.definition.tag.end.js",
+        "punctuation.definition.tag.end.html",
+        "support.class.component.tsx"
+      ],
+      "settings": { "foreground": "#FABC2A" }
+    },
+    {
+      "name": "Mind Stone",
+      "scope": [
+        "entity.other.attribute-name.tsx",
+        "entity.other.attribute-name.jsx",
+        "entity.other.attribute-name.js",
+        "entity.other.attribute-name.ts",
+        "entity.other.attribute-name.html"
+      ],
+      "settings": { "foreground": "#FFE900" }
+    },
+    {
+      "name": "Vision Stone",
+      "scope": [
+        "constant",
+        "support.class",
+        "support.constant",
+        "text.html.markdown string",
+        "source.css support.function",
+        "source.php support.function",
+        "support.function.magic.python",
+        "entity.other.attribute-name.id",
+        "markup.deleted",
+        "support.variable",
+        "entity.name.tag.yaml",
+        "constant.character.entity.html",
+        "source.css entity.name.tag.reference",
+        "beginning.punctuation.definition.list.markdown",
+        "source.css entity.other.attribute-name.parent-selector",
+        "meta.structure.dictionary.json support.type.property-name",
+        "markup.list",
+        "text.xml string",
+        "entity.name.type",
+        "support.function",
+        "entity.other.attribute-name",
+        "meta.at-rule.extend",
+        "entity.name.function",
+        "entity.other.inherited-class",
+        "entity.other.keyframe-offset.css",
+        "text.html.markdown string.quoted",
+        "meta.function-call.generic.python",
+        "meta.at-rule.extend support.constant",
+        "entity.other.attribute-name.class.jade",
+        "source.css entity.other.attribute-name",
+        "text.xml punctuation.definition.string",
+        "variable"
+      ],
+      "settings": { "foreground": "#DDA2F6" }
+    },
+    {
+      "name": "Void Stone",
+      "scope": ["variable.other.property"],
+      "settings": { "foreground": "#b9c3d5" }
+    },
+    {
+      "name": "Conqueror Line",
+      "scope": ["entity.other.inherited-class"],
+      "settings": {
+        "fontStyle": "underline"
+      }
+    }
+  ]
+}
