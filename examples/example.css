@@ -1,0 +1,22 @@
+/* The titan has a lot of style */
+
+body {
+  background-color: #161926;
+}
+
+p:first-letter {
+  display: block;
+  margin: 5px 0 0 5px;
+  float: left;
+  color: #58ebd7;
+  font-size: 60px;
+  font-family: Georgia;
+}
+
+p {
+  margin: 10px;
+}
+
+.class {
+  margin: 10px;
+}
