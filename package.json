@@ -5,7 +5,7 @@
   "version": "0.0.3",
   "license": "MIT",
   "publisher": "arthur404dev",
-  "icon": "logo.png",
+  "icon": "https://raw.githubusercontent.com/thanos-theme/thanos/main/assets/image/logo/256x256.png",
   "galleryBanner": {
     "color": "#161926",
     "theme": "dark"
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/thanos-theme/visual-studio-code/issues"
   },
-  "homepage": "https://github.com/thanos-theme",
+  "homepage": "https://github.com/thanos-theme/thanos",
   "categories": [
     "Themes"
   ],
