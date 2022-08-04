@@ -10,3 +10,13 @@
 #### Activating theme
 
 Run Visual Studio Code. The Thanos Theme variants will be available from `File -> Preferences -> Color Theme` dropdown menu.
+
+---
+
+#### Optional Settings
+
+This theme has `Custom Bracket Pair Colorization`. To see in effect just add the following to your `settings.json` file.
+
+```
+editor.bracketPairColorization.enabled": true
+```

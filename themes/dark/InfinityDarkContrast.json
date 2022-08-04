@@ -32,12 +32,9 @@
     "editor.inactiveSelectionBackground": "#4b5783",
     "editor.lineHighlightBackground": "#222530",
     "editor.selectionBackground": "#9d65ff33",
-    "editorBracketHighlight.foreground1": "#9d65ff",
-    "editorBracketHighlight.foreground2": "#FABC2A",
-    "editorBracketHighlight.foreground3": "#58ebd7",
-    "editorBracketHighlight.foreground4": "#00A1E4",
-    "editorBracketHighlight.foreground5": "#ff206e",
-    "editorBracketHighlight.foreground6": "#FFE900",
+    "editorBracketHighlight.foreground1": "#FABC2A",
+    "editorBracketHighlight.foreground2": "#9d65ff",
+    "editorBracketHighlight.foreground3": "#00A1E4",
     "editorCursor.foreground": "#f8f8f0",
     "editorGroup.emptyBackground": "#181b28",
     "editorGroup.border": "#181A1F",
@@ -224,8 +221,11 @@
         "meta.image",
         "markup.italic",
         "source.js support.type",
-        "support.type.primitive.ts",
-        "meta.interface.ts"
+        "meta.interface.ts",
+        "entity.name.tag",
+        "support.class.component.tsx",
+        "support.type.primitive",
+        "support.type"
       ],
       "settings": { "foreground": "#9d65ff" }
     },
@@ -238,30 +238,13 @@
         "punctuation.definition.metadata.markdown",
         "punctuation.definition.string.end.markdown",
         "punctuation.definition.string.begin.markdown",
-        "entity.name.tag",
-        "punctuation.definition.tag.begin.tsx",
-        "punctuation.definition.tag.begin.html",
-        "punctuation.definition.tag.begin.jsx",
-        "punctuation.definition.tag.begin.js",
-        "punctuation.definition.tag.begin.ts",
-        "punctuation.definition.tag.end.tsx",
-        "punctuation.definition.tag.end.ts",
-        "punctuation.definition.tag.end.jsx",
-        "punctuation.definition.tag.end.js",
-        "punctuation.definition.tag.end.html",
-        "support.class.component.tsx"
+        "meta.type.annotation entity.name.type"
       ],
       "settings": { "foreground": "#FABC2A" }
     },
     {
       "name": "Mind Stone",
-      "scope": [
-        "entity.other.attribute-name.tsx",
-        "entity.other.attribute-name.jsx",
-        "entity.other.attribute-name.js",
-        "entity.other.attribute-name.ts",
-        "entity.other.attribute-name.html"
-      ],
+      "scope": ["entity.other.attribute-name"],
       "settings": { "foreground": "#FFE900" }
     },
     {
@@ -304,7 +287,12 @@
     },
     {
       "name": "Void Stone",
-      "scope": ["variable.other.property"],
+      "scope": [
+        "variable.other.property",
+        "variable.object.property",
+        "punctuation.definition.tag.begin",
+        "punctuation.definition.tag.end"
+      ],
       "settings": { "foreground": "#b9c3d5" }
     },
     {

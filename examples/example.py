@@ -8,7 +8,7 @@ class Titan:
         self.items = config.items
         self.isMad = config.isMad
 
-    def get_age(self):
+    def get_age(self) -> int:
         return self.estimateAge()
 
     def estimateAge(self):
