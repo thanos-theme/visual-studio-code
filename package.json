@@ -2,12 +2,12 @@
   "name": "thanos-theme",
   "displayName": "Thanos Theme",
   "description": "A theme made by a Titan to conquer the universe",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "publisher": "arthur404dev",
   "icon": "images/thanos-logo.png",
   "galleryBanner": {
-    "color": "#705fbd",
+    "color": "#161926",
     "theme": "dark"
   },
   "engines": {
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/thanos-theme/visual-studio-code/issues"
   },
-  "homepage": "https://github.com/thanos-theme/visual-studio-code/blob/main/README.md",
+  "homepage": "https://github.com/thanos-theme",
   "categories": [
     "Themes"
   ],
