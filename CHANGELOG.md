@@ -1,8 +1,20 @@
 # Change Log
 
+## 0.0.5
+
+- Fixes Issue [#4](https://github.com/thanos-theme/visual-studio-code/issues/4) .
+- Add color-specific DiffEditor customization
+- Update Documentation
+- Add Scrollbar transparency
+
+## 0.0.4
+
+- Minor improvements to coloring
+- Improve documentation
+
 ## 0.0.3
 
-- Fixes Issue #2 .
+- Fixes Issue [#2](https://github.com/thanos-theme/visual-studio-code/issues/2) .
 - Change HTML tags to less obstructive coloring
 - Add more semantic coloring for types across languages
 - Add more example scenarios

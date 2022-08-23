@@ -5,7 +5,7 @@
   "version": "0.0.5",
   "license": "MIT",
   "publisher": "arthur404dev",
-  "icon": "https://raw.githubusercontent.com/thanos-theme/thanos/main/assets/image/logo/256x256.png",
+  "icon": "logo.png",
   "galleryBanner": {
     "color": "#371a48",
     "theme": "dark"
@@ -46,5 +46,9 @@
   },
   "scripts": {
     "deploy": "vsce publish"
+  },
+  "dependencies": {
+    "g": "^2.0.1",
+    "vsce": "^2.10.2"
   }
 }
