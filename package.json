@@ -46,9 +46,5 @@
   },
   "scripts": {
     "deploy": "vsce publish"
-  },
-  "dependencies": {
-    "g": "^2.0.1",
-    "vsce": "^2.10.2"
   }
 }
