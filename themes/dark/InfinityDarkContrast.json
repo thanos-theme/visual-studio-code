@@ -20,8 +20,15 @@
     "button.foreground": "#FFFFFF",
     "button.hoverBackground": "#9472c4",
 
-    "diffEditor.insertedTextBackground": "#5d43d010",
-    "diffEditor.removedTextBackground": "#e052521a",
+    "diffEditor.border": "#9d65ff44",
+    "diffEditor.insertedTextBackground": "#181b2855",
+    "diffEditor.insertedLineBackground": "#58ebd722",
+    "diffEditorGutter.insertedLineBackground": "#58ebd7",
+    "diffEditorOverview.insertedForeground": "#58ebd7",
+    "diffEditor.removedTextBackground": "#181b2855",
+    "diffEditor.removedLineBackground": "#ff206e22",
+    "diffEditorGutter.removedLineBackground": "#ff206e",
+    "diffEditorOverview.removedForeground": "#ff206e",
 
     "dropdown.background": "#181B28",
 
@@ -90,9 +97,9 @@
     "statusBar.debuggingBackground": "#4b5783",
     "statusBar.debuggingForeground": "#ffffff",
 
-    "scrollbarSlider.background": "#2a3049",
-    "scrollbarSlider.activeBackground": "#9d65ff",
-    "scrollbarSlider.hoverBackground": "#705fbd",
+    "scrollbarSlider.background": "#2a3049bb",
+    "scrollbarSlider.activeBackground": "#9d65ffee",
+    "scrollbarSlider.hoverBackground": "#705fbddd",
 
     "tab.activeBackground": "#161926",
     "tab.activeForeground": "#D7DAE0",
