@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.6
+
+- Minor improvements to terminal colors
+
 ## 0.0.5
 
 - Fixes Issue [#4](https://github.com/thanos-theme/visual-studio-code/issues/4) .
