@@ -1,5 +1,10 @@
 ### [Visual Studio Code](https://code.visualstudio.com/)
 
+### Install using Visual Studio Code Marketplace
+
+1. Go to [thanos-theme](https://marketplace.visualstudio.com/items?itemName=arthur404dev.thanos-theme) on Visual Studio Marketplace
+2. Click `Install`
+
 #### Install using Command Palette
 
 1.  Go to `View -> Command Palette` or press `Ctrl+Shift+P`

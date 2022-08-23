@@ -2,7 +2,7 @@
   <br>
   <img src="https://raw.githubusercontent.com/thanos-theme/thanos/main/assets/image/logo/256x256.png" alt="Thanos theme" width="100">
   <br>
-  Thanos theme for <a href="https://code.visualstudio.com/">Visual Studio Code</a>
+  Thanos theme for <a href="https://marketplace.visualstudio.com/items?itemName=arthur404dev.thanos-theme">Visual Studio Code</a>
   <br>
 </h1>
 
